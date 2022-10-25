@@ -21,9 +21,9 @@ var respecConfig =
   //-- specType is verplicht! (activeer 1 van de volgende) ----------------------------
   //specType: "NO",                   // Norm
   //specType: "ST",                     // Standaard
-  //specType: "IM",                   // Informatie Model
+  specType: "IM",                   // Informatie Model
   //specType: "PR",                   // Praktijk Richtlijn
-  specType: "HR",                   // HandReiking
+  //specType: "HR",                   // HandReiking
   //specType: "WA",                   // Werkafspraak
   //specType: "US",                   // Uitwisselings standaard
   //specType: "PS",                   // Presentatie sstandaard
@@ -46,11 +46,15 @@ var respecConfig =
    authors:
   [
    {
-     name:       "Paul Jannsen",
+     name:       "Paul Janssen",
      company:    "Geonovum",
      url:        "https://www.geonovum.nl",
    },
-
+   {
+     name:       "Wilko Quak",
+     company:    "Geonovum",
+     url:        "https://www.geonovum.nl",
+   },
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
   shortName: "ds-template", 	              // Wordt gebruikt in de document URL

@@ -1,2 +1,0 @@
-Werkomgeving-Template Dataspecificatie
-======================================
