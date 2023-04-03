@@ -1,8 +1,6 @@
-Dataspecificatie-Template
+CIMOP-dso
 =========================
 
-Werkomgeving voor het ontwikkelen van een template voor een dataspecificatie
-document
+Werkomgeving voor het ontwikkelen van het CIMOP-dso
 
-[Link naar template
-dataspecificatie](https://geonovum.github.io/dso-cimop/)
+[Link naar werkversie CIMOP-dso](https://geonovum.github.io/dso-cimop/)
