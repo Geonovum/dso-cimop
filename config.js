@@ -73,11 +73,11 @@ var respecConfig =
   //pubDomain: "visu", 	            // Visualisatie
   //pubDomain: "wp", 	              // White Paper
   //-- Repositorynaam op GitHub -------------------------------------------------------
-  github: "https://github.com/Geonovum/ds-template/",
+  github: "https://github.com/Geonovum/dso-cimop/",
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
-  issueBase: "https://github.com/Geonovum/ds-template/issues/",
+  issueBase: "https://github.com/Geonovum/dso-cimop",
   //-- edDraftURI: de URI van de werkversie van het document
-  edDraftURI: "https://geonovum.github.io/ds-template/dataspecificatie",
+  edDraftURI: "https://geonovum.github.io/dso-cimop/",
 
   //-- license: voor de geldende gebruiksvoorwaarden
   licence: "cc-by-nd",              //-- bronvermelding, geen afgeleide werken (default)
