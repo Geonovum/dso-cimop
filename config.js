@@ -75,7 +75,7 @@ var respecConfig =
   //-- Repositorynaam op GitHub -------------------------------------------------------
   github: "https://github.com/Geonovum/dso-cimop/",
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
-  issueBase: "https://github.com/Geonovum/dso-cimop",
+  issueBase: "https://github.com/Geonovum/dso-cimop/issues/",
   //-- edDraftURI: de URI van de werkversie van het document
   edDraftURI: "https://geonovum.github.io/dso-cimop/",
 
